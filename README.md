@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 競賽決賽抽籤機
 
-# Run and deploy your AI Studio app
+專為兩組競賽設計的決賽棒次（水道/跑道）隨機抽籤工具
 
-This contains everything you need to run your app locally.
+## 本地運行
 
-View your app in AI Studio: https://ai.studio/apps/d9a206d5-f705-46f8-bdfb-49277cb4ee5d
+**先決條件：** Node.js
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. 安裝依賴：
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. 設定 `GEMINI_API_KEY` 在 [.env.local](.env.local) 中為您的 Gemini API 金鑰
+3. 運行應用程式：
    `npm run dev`
