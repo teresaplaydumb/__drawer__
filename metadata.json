@@ -1,0 +1,6 @@
+{
+  "name": "競賽決賽抽籤機",
+  "description": "專為兩組競賽設計的決賽棒次（水道/跑道）隨機抽籤工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
